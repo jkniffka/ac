@@ -1,5 +1,5 @@
 # Assesment Center GalileiConsult e.V.
-## Herzlichen Glückwunsch. 
+## Herzlichen Glückwunsch.
 Zu diesem Zeitpunkt hast du dich gegen viele andere Bewerber und Bewerberinnen durchgesetzt. Mit dem Herunterladen der Daten aus GitHub hast du die erste Hürde bereits überwunden. Nun stehst du vor der 24h Case-Study. Viel Spaß!
 
 ## Aufgabe
@@ -13,11 +13,12 @@ Da er keinerlei Erfahrung auf diesem Gebiet hat, braucht er deine Hilfe! Dabei l
 Der Oligarch liebt anschauliche Folien. Präsentiere deine Ergebnisse daher in Form einer PowerPoint Präsentation.
 
 ## Hinweise
-Der Oligarch ist ein großer Fan von: 
+Der Oligarch ist ein großer Fan von:
 * Datenbasierten Entscheidungen
 * Krokodilen
 * Alexander Osterwalder
 * Robocop
 * Branding
 * Amazon
+
 Die dir zur Verfügung stehenden Daten findest du im DATA Ordner.
