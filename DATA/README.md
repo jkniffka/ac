@@ -8,3 +8,5 @@ Die Daten in der Tabelle data_survey.csv sind die Ergebnisse einer Umfrage mit d
 * Wie schätzen Sie ihre Internetaffinität ein? (1-11, 1 sehr schlecht; 11 sehr gut)
 * Sind Sie aktiv auf Partnersuche? (y, n)
 * Wo wohnen Sie? (Land, Dorf, Kleinstadt, Vorstadt, Großstadt)
+*
+*
